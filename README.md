@@ -1,3 +1,3 @@
 # firstRepo
 this is my first repository
-mede by - sachin
+made by - sachin
